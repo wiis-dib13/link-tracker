@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Liens Tracker",
+  "version": "1.0",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": {
+      "16": "icon.JPG",
+      "48": "icon.JPG",
+      "128": "icon.JPG"
+    }
+
+}
+}
