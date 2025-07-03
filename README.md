@@ -9,4 +9,5 @@ simple Chrome extension that lets you track, save, and manage your favorite link
 - ✅ Everything saved locally
 
 # interface :
-![CC](https://github.com/user-attachments/assets/aa8cd32f-2070-4c99-ae02-83b24f332dcf)
+
+![gitt](https://github.com/user-attachments/assets/12372be4-ed66-4615-8739-fe86f06967c9)
