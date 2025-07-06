@@ -3,8 +3,7 @@
   "name": "Liens Tracker",
   "version": "1.0",
   "action": {
-    "default_popup": "index.html",
-    "default_icon": "icon.jpg"
+    "default_popup": "index.html"
   },
     "permissions":[
       "tabs"
